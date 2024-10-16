@@ -1,5 +1,5 @@
 import requests
-
+#anna
 class ApiService:
     def get_data(self):
         # Логика получения данных с сервера
